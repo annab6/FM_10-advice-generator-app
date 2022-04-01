@@ -14,16 +14,16 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### The challenge
 
+Your challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible.
 Users should be able to:
-
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-advice-generator-app-rkB3n84m5](https://www.frontendmentor.io/solutions/responsive-advice-generator-app-rkB3n84m5)
+- Live Site URL: [https://annab6.github.io/FM_10-advice-generator-app/](https://annab6.github.io/FM_10-advice-generator-app/)
 
 
 ## Author
